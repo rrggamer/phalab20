@@ -100,6 +100,7 @@ void searchGrade(vector<string> &name, vector<int> &score, vector<char> &grade, 
 
 
 
+
 int main(){
     string filename = "name_score.txt";
     vector<string> names;
